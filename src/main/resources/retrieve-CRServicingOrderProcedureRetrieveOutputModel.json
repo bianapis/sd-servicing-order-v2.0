@@ -1,0 +1,31 @@
+{
+  "servicingOrderProcedureRetrieveActionTaskReference" : "SOPRATR710566",
+  "servicingOrderProcedureInstanceReportRecord" : {
+    "servicingOrderProcedureInstanceReportType" : "servicingOrderProcedureInstanceReportType",
+    "servicingOrderProcedureInstanceReport" : {},
+    "servicingOrderProcedureInstanceReportData" : "servicingOrderProcedureInstanceReportData"
+  },
+  "servicingOrderProcedureRetrieveActionResponse" : "servicingOrderProcedureRetrieveActionResponse",
+  "servicingOrderProcedureRetrieveActionTaskRecord" : {},
+  "servicingOrderProcedureInstanceAnalysis" : {
+    "servicingOrderProcedureInstanceAnalysisReportType" : "servicingOrderProcedureInstanceAnalysisReportType",
+    "servicingOrderProcedureInstanceAnalysisReport" : {},
+    "servicingOrderProcedureInstanceAnalysisData" : "servicingOrderProcedureInstanceAnalysisData"
+  },
+  "servicingOrderProcedureInstanceRecord" : {
+    "customerEligibilityAssessmentInstanceRecord" : {},
+    "customerReference" : "774038",
+    "servicingOrderType" : "servicingOrderType",
+    "servicingOrderTaskRecord" : {
+      "date" : "09-22-2018",
+      "employeeBusinessUnitReference" : "713751",
+      "servicingOrderWorkTaskResult" : "servicingOrderWorkTaskResult",
+      "servicingOrderDescription" : "servicingOrderDescription",
+      "servicingOrderWorkProduct" : "servicingOrderWorkProduct"
+    },
+    "thirdPartyServicingMandateReference" : "710776",
+    "customerEligibilityAssessmentInstanceReference" : "751430",
+    "thirdPartyServicingMandate" : "thirdPartyServicingMandate",
+    "thirdPartyReference" : "743994"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "servicingOrderProcedureInstanceReference" : "SOPIR738872",
+  "servicingOrderProcedureInitiateActionReference" : "SOPIAR772749",
+  "servicingOrderProcedureInitiateActionRecord" : {},
+  "servicingOrderProcedureInstanceStatus" : "servicingOrderProcedureInstanceStatus",
+  "servicingOrderProcedureInstanceRecord" : {
+    "servicingOrderTaskRecord" : {
+      "date" : "09-22-2018",
+      "servicingOrderWorkTaskResult" : "servicingOrderWorkTaskResult",
+      "servicingOrderDescription" : "servicingOrderDescription",
+      "servicingOrderWorkProduct" : "servicingOrderWorkProduct"
+    }
+  }
+}
